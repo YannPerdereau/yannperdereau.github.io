@@ -17,7 +17,8 @@ I'm a fourth year PhD student in Economics at the [Paris School of Economics](ht
 
 Do not hesitate to contact me at [yann.perdereau@psemail.eu](yann.perdereau@psemail.eu). I am also active on [Twitter](https://twitter.com/YPerdereau) and [Linkedin](https://www.linkedin.com/in/yann-perdereau-5a74b3152/).
 
-[Curriculum vitae](https://drive.google.com/file/d/1IXxCb5BZIH9UDopfTCMDcM6Jr7KlX91E/view?usp=sharing)
+[Curriculum vitae](/files/CV Yann Perdereau - 04-24.pdf)
+
 
 Working papers
 ======
