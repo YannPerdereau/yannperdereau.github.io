@@ -22,9 +22,9 @@ Do not hesitate to contact me at [yann.perdereau@psemail.eu](yann.perdereau@psem
 
 Working papers
 ======
-[Balance sheet policies and Central Bank losses in a HANK model](https://drive.google.com/file/d/1va-ZWX7qunRiGKNPOVLAoo6DpKGdomnj/view?usp=sharing), with Charles Labrousse, April 2024.
+[Balance sheet policies and Central Bank losses in a HANK model](/files/Balance sheet policies and Central Bank losses in a HANK model - 30-04-24.pdf), with Charles Labrousse, April 2024.
 
-[Geography versus income: the heterogeneous effects of carbon taxation](https://drive.google.com/file/d/1HElXUjDULGCTqGsgoUt0RVcrEaJtKOmE/view?usp=drive_link), with Charles Labrousse, April 2024. 2023 [CEPR Philippe Martin Prize](https://cepr.org/about/news/inaugural-philippe-martin-prize-awarded-cepr-paris-symposium) recipient.
+[Geography versus income: the heterogeneous effects of carbon taxation](/files/Geography versus Income, The Heterogeneous Effects of Carbon Taxation.pdf), with Charles Labrousse, April 2024. 2023 [CEPR Philippe Martin Prize](https://cepr.org/about/news/inaugural-philippe-martin-prize-awarded-cepr-paris-symposium) recipient.
 
 
 
