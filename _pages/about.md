@@ -28,7 +28,7 @@ Working papers
 
 
 
-Publications
+Policy papers
 ======
 [European unemployment insurance and macroeconomic stabilisation: are permanent fiscal transfers between States needed?](https://publications.banque-france.fr/sites/default/files/medias/documents/822145_bdf240-3_en_assurance_chomage_vfinale.pdf), with Jean-Baptiste Gossé, Camille Jehle and Roger Vicquery, 2022, <i>Bulletin de la Banque de France</i> (240).
 
