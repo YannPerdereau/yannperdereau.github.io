@@ -111,7 +111,7 @@ social:
 # Analytics
 analytics:
   provider               :  google-analytics-4 # false (default), "google", "google-universal", "google-analytics-4", "custom"
-google_analytics: G-SHRXVLP1BK   # ton identifiant GA4
+  google_analytics: G-SHRXVLP1BK   # ton identifiant GA4
   google:
     tracking_id          :
 
