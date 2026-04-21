@@ -13,7 +13,7 @@ Le site original est à cette page: https://academicpages.github.io/
 
 **Welcome to my webpage!**
 
-I'm a fifth-year PhD student in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), under the supervision of Gilles Saint-Paul and Axelle Ferriere. My research focuses on macroeconomics, household heterogeneity, and fiscal and monetary policies. I am on the 2025-2026 Job Market.
+I'm a fifth-year PhD student in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), under the supervision of Gilles Saint-Paul and Axelle Ferriere. My research focuses on macroeconomics, household heterogeneity, and fiscal and monetary policies. I will join the Banca d'Italia as a Research Fellow in September 2026.
 
 Do not hesitate to contact me at [yann.perdereau@psemail.eu](yann.perdereau@psemail.eu). I am also active on [Twitter](https://twitter.com/YPerdereau) and [Linkedin](https://www.linkedin.com/in/yann-perdereau-5a74b3152/).
 
@@ -40,11 +40,13 @@ Working papers
   <p style="text-align: justify;">What are the effects of central bank balance sheet expansion, and should we worry about central bank losses? Using a Heterogeneous-Agent New Keynesian model incorporating money in utility and an endogenous zero lower bound (ZLB), we study the fiscal-monetary interactions of central bank balance sheet policies. We find that the overall efficiency of asset purchase programs depends on the combination of the expected future size of the balance sheet and the fiscal transmission of central bank losses. First, permanent balance sheet expansions stimulate the economy in the long run and by anticipation, increase inflation and output during the ZLB episode, as they interact with distortionary taxes and imperfect capital markets. Second, upon exiting the ZLB, the central bank incurs losses; issuing securities to offset these losses is more welfare-enhancing than raising taxes.</p>
 </div>
 
-<u>Risk, Wages, and Stabilization: The Role of Public Servants in the Labor Market</u>, with Charles Labrousse.
-<button onclick="toggleTexte('abstract4')">Abstract</button>
-<div id="abstract4" style="display:none;">
-  <p style="text-align: justify;">Public servants account for about 20% of total employment. Compared to private-sector workers, they face much lower unemployment risk but also earn lower wages. What does this imply for aggregate stabilization, and what would be the consequences of large-scale public-sector layoffs? Using administrative data, we estimate idiosyncratic productivity risk in both sectors and show that public servants face only half the risk borne by private-sector workers. We then build a quantitative model with both public and private employment and demonstrate that the private-sector wage premium depends crucially on risk aversion. Finally, we examine the distributive and aggregate effects of dismissing 10% of public servants. Our results suggest that welfare improves under plausible calibrations of relative productivity between the two sectors. However, this outcome becomes less likely when heterogeneity in individual risk aversion is taken into account, since more risk-averse workers are forced into the riskier private sector.</p>
-</div>
+<u>Housing and Inequality</u>, with Charles Labrousse.
+
+#<u>Risk, Wages, and Stabilization: The Role of Public Servants in the Labor Market</u>, with Charles Labrousse.
+#<button onclick="toggleTexte('abstract4')">Abstract</button>
+#<div id="abstract4" style="display:none;">
+#  <p style="text-align: justify;">Public servants account for about 20% of total employment. Compared to private-sector workers, they face much lower unemployment risk but also earn lower wages. What does this imply for aggregate stabilization, and what would be the consequences of large-scale public-sector layoffs? Using administrative data, we estimate idiosyncratic productivity risk in both sectors and show that public servants face only half the risk borne by private-sector workers. We then build a quantitative model with both public and private employment and demonstrate that the private-sector wage premium depends crucially on risk aversion. Finally, we examine the distributive and aggregate effects of dismissing 10% of public servants. Our results suggest that welfare improves under plausible calibrations of relative productivity between the two sectors. However, this outcome becomes less likely when heterogeneity in individual risk aversion is taken into account, since more risk-averse workers are forced into the riskier private sector.</p>
+#</div>
 
 
 
@@ -52,7 +54,7 @@ Policy papers
 ======
 [European unemployment insurance and macroeconomic stabilisation: are permanent fiscal transfers between States needed?](/files/bulletin_bdf_yann.pdf), with Jean-Baptiste Gossé, Camille Jehle and Roger Vicquery, 2022, <i>Bulletin de la Banque de France</i> (240).
 
-
+[Taxing firm emissions or household emissions: effects by income level and territory](https://www.insee.fr/fr/statistiques/8887123), with Charles Labrousse, 2026, <i>Insee Analyse</i>.
 
 
 
