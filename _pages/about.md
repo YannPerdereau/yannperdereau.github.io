@@ -42,12 +42,13 @@ Working papers
 
 <u>Housing and Inequality</u>, with Charles Labrousse.
 
-#<u>Risk, Wages, and Stabilization: The Role of Public Servants in the Labor Market</u>, with Charles Labrousse.
-#<button onclick="toggleTexte('abstract4')">Abstract</button>
-#<div id="abstract4" style="display:none;">
-#  <p style="text-align: justify;">Public servants account for about 20% of total employment. Compared to private-sector workers, they face much lower unemployment risk but also earn lower wages. What does this imply for aggregate stabilization, and what would be the consequences of large-scale public-sector layoffs? Using administrative data, we estimate idiosyncratic productivity risk in both sectors and show that public servants face only half the risk borne by private-sector workers. We then build a quantitative model with both public and private employment and demonstrate that the private-sector wage premium depends crucially on risk aversion. Finally, we examine the distributive and aggregate effects of dismissing 10% of public servants. Our results suggest that welfare improves under plausible calibrations of relative productivity between the two sectors. However, this outcome becomes less likely when heterogeneity in individual risk aversion is taken into account, since more risk-averse workers are forced into the riskier private sector.</p>
-#</div>
-
+<!-- Comment
+<u>Risk, Wages, and Stabilization: The Role of Public Servants in the Labor Market</u>, with Charles Labrousse.
+<button onclick="toggleTexte('abstract4')">Abstract</button>
+<div id="abstract4" style="display:none;">
+  <p style="text-align: justify;">Public servants account for about 20% of total employment. Compared to private-sector workers, they face much lower unemployment risk but also earn lower wages. What does this imply for aggregate stabilization, and what would be the consequences of large-scale public-sector layoffs? Using administrative data, we estimate idiosyncratic productivity risk in both sectors and show that public servants face only half the risk borne by private-sector workers. We then build a quantitative model with both public and private employment and demonstrate that the private-sector wage premium depends crucially on risk aversion. Finally, we examine the distributive and aggregate effects of dismissing 10% of public servants. Our results suggest that welfare improves under plausible calibrations of relative productivity between the two sectors. However, this outcome becomes less likely when heterogeneity in individual risk aversion is taken into account, since more risk-averse workers are forced into the riskier private sector.</p>
+</div>
+-->
 
 
 Policy papers
