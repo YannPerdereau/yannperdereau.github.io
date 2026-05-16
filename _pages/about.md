@@ -13,7 +13,11 @@ Le site original est à cette page: https://academicpages.github.io/
 
 **Welcome to my webpage!**
 
-I'm a fifth-year PhD student in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), under the supervision of Gilles Saint-Paul and Axelle Ferriere. My research focuses on macroeconomics, household heterogeneity, and fiscal and monetary policies. I will join the Banca d'Italia as a Research Fellow in September 2026.
+I'm a fifth-year PhD student in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), under the supervision of Gilles Saint-Paul and Axelle Ferriere. My research focuses on macroeconomics, household heterogeneity, and fiscal and monetary policies. 
+
+<b>News</b>: 
+- I will join the Banca d'Italia as a Research Fellow in September 2026.
+- I will present my job market paper at the NBER Summer Institute Inequality and Macroeconomics in July 2026
 
 Do not hesitate to contact me at [yann.perdereau@psemail.eu](yann.perdereau@psemail.eu). I am also active on [Twitter](https://twitter.com/YPerdereau) and [Linkedin](https://www.linkedin.com/in/yann-perdereau-5a74b3152/).
 
@@ -25,10 +29,10 @@ Working papers
 [Luxury for All: A Macroeconomic Theory of Public Provision](/files/Labrousse Perdereau - A Macroeconomic Theory of Public Provision.pdf), with Charles Labrousse, November 2025. <b>Job market paper</b>.
 <button onclick="toggleTexte('abstract1')">Abstract</button>
 <div id="abstract1" style="display:none;">
-  <p style="text-align: justify;">Public in-kind provision in education, healthcare, or cultural amenities accounts for a large share of government spending, even though redistribution can be achieved with cash transfers and externalities addressed with subsidies. We propose a new efficiency-based rationale for in-kind provision of goods, grounded in two empirically relevant features: (i) these goods are luxuries, with consumption rising more than proportionally with income; and (ii) they generate externalities that depend not only on the total level of consumption but also on its distribution across households. In a tractable heterogeneous-agent model, we show that when these two conditions hold, direct in-kind provision is welfare-improving, even when cash transfers and subsidies are available. Using household- and country-level data, we document that most publicly provided goods exhibit both features. Embedding these insights into a calibrated model for France, we find that optimal fiscal consolidation should reduce subsidies rather than direct provision, and that income-targeted in-kind benefits can generate substantial fiscal savings. Finally, we develop a welfare-based imputation method for in-kind benefits, yielding a more accurate assessment of the distributive impact of government spending. </p>
+  <p style="text-align: justify;">Public in-kind provision of education, healthcare, or cultural amenities accounts for a large share of government spending, even though redistribution can be achieved with cash transfers and externalities addressed with subsidies. We propose a new macroeconomic theory of in-kind provision, grounded in two features: (i) these goods are luxuries, with consumption rising more than proportionally with income; and (ii) they generate externalities that depend not only on the total level of consumption but also on its distribution across households. In a tractable heterogeneous-agent model, we show that these features make direct in-kind provision welfare-improving, even when cash transfers and subsidies are available. Using household- and country-level data, we document that most publicly provided goods exhibit both features. We then apply the framework to the design of fiscal consolidation, showing in a calibrated model that optimal consolidation falls primarily on goods without private substitutes, while preserving in-kind provision of goods with private substitutes. Finally, we develop a welfare-based imputation method for in-kind benefits, to provide a more accurate assessment of the distributional impact of government spending. </p>
 </div>
 
-[Geography versus Income: The Heterogeneous Effects of Carbon Taxation](/files/Geography versus Income, The Heterogeneous Effects of Carbon Taxation.pdf), with Charles Labrousse, March 2026. <b>Revise & Resubmit, Journal of Monetary Economics</b>. 2023 [CEPR Philippe Martin Prize](https://cepr.org/about/news/inaugural-philippe-martin-prize-awarded-cepr-paris-symposium) recipient.
+[Geography versus Income: The Heterogeneous Effects of Carbon Taxation](/files/Geography versus Income, The Heterogeneous Effects of Carbon Taxation.pdf), with Charles Labrousse, March 2026. <b>Accepted subject to minor revision, Journal of Monetary Economics</b>. 2023 [CEPR Philippe Martin Prize](https://cepr.org/about/news/inaugural-philippe-martin-prize-awarded-cepr-paris-symposium) recipient.
 <button onclick="toggleTexte('abstract2')">Abstract</button>
 <div id="abstract2" style="display:none;">
   <p style="text-align: justify;">The distributive effects of carbon taxation are critical for its political acceptability and depend on both income and geographic factors. Using French administrative data, household surveys, and matched employer-employee records, we document that rural households spend 2.8 times more on fossil fuels than urban households and work in firms that emit 2.7 times more greenhouse gases. We incorporate these facts into a spatial heterogeneous-agent model with migration, housing and wealth accumulation, bridging spatial and macroeconomic approaches. Carbon taxes generate 56% larger welfare losses for rural households than for urban households. While uniform or income-based rebates reduce inequality along the income dimension, they leave large spatial disparities that must be offset through location-based transfers. These results suggest that carbon policies should account for spatial differences to improve political feasibility.</p>
@@ -40,14 +44,14 @@ Working papers
   <p style="text-align: justify;">What are the effects of central bank balance sheet expansion, and should we worry about central bank losses? Using a Heterogeneous-Agent New Keynesian model incorporating money in utility and an endogenous zero lower bound (ZLB), we study the fiscal-monetary interactions of central bank balance sheet policies. We find that the overall efficiency of asset purchase programs depends on the combination of the expected future size of the balance sheet and the fiscal transmission of central bank losses. First, permanent balance sheet expansions stimulate the economy in the long run and by anticipation, increase inflation and output during the ZLB episode, as they interact with distortionary taxes and imperfect capital markets. Second, upon exiting the ZLB, the central bank incurs losses; issuing securities to offset these losses is more welfare-enhancing than raising taxes.</p>
 </div>
 
-<u>Housing and Inequality</u>, with Charles Labrousse.
-
-<!-- Comment
 <u>Risk, Wages, and Stabilization: The Role of Public Servants in the Labor Market</u>, with Charles Labrousse.
 <button onclick="toggleTexte('abstract4')">Abstract</button>
 <div id="abstract4" style="display:none;">
   <p style="text-align: justify;">Public servants account for about 20% of total employment. Compared to private-sector workers, they face much lower unemployment risk but also earn lower wages. What does this imply for aggregate stabilization, and what would be the consequences of large-scale public-sector layoffs? Using administrative data, we estimate idiosyncratic productivity risk in both sectors and show that public servants face only half the risk borne by private-sector workers. We then build a quantitative model with both public and private employment and demonstrate that the private-sector wage premium depends crucially on risk aversion. Finally, we examine the distributive and aggregate effects of dismissing 10% of public servants. Our results suggest that welfare improves under plausible calibrations of relative productivity between the two sectors. However, this outcome becomes less likely when heterogeneity in individual risk aversion is taken into account, since more risk-averse workers are forced into the riskier private sector.</p>
 </div>
+
+<!-- Comment
+<u>Housing and Inequality</u>, with Charles Labrousse.
 -->
 
 
@@ -55,7 +59,7 @@ Policy papers
 ======
 [European unemployment insurance and macroeconomic stabilisation: are permanent fiscal transfers between States needed?](/files/bulletin_bdf_yann.pdf), with Jean-Baptiste Gossé, Camille Jehle and Roger Vicquery, 2022, <i>Bulletin de la Banque de France</i> (240).
 
-[Taxing firm emissions or household emissions: effects by income level and territory](https://www.insee.fr/fr/statistiques/8887123), with Charles Labrousse, 2026, <i>Insee Analyse</i>.
+[Taxing firm emissions or household emissions: effects by income level and territory](https://yannperdereau.github.io/files/Labrousse Perdereau Insee - Taxer les emissions des entreprises ou taxer celles des menages.pdf), with Charles Labrousse, 2026, <i>Insee Analyse</i> (117).
 
 
 
