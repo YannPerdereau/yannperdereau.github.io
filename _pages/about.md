@@ -15,9 +15,7 @@ Le site original est à cette page: https://academicpages.github.io/
 
 I'm a fifth-year PhD student in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), under the supervision of Gilles Saint-Paul and Axelle Ferriere. My research focuses on macroeconomics, household heterogeneity, and fiscal and monetary policies. 
 
-<b>News</b>: 
-- I will join the Banca d'Italia as a Research Fellow in September 2026.
-- I will present my job market paper at the NBER Summer Institute Inequality and Macroeconomics in July 2026
+<b>News:</b> I will join the Banca d'Italia as a Research Fellow in September 2026.<br>I will present my job market paper at the NBER Summer Institute Inequality and Macroeconomics in July 2026.
 
 Do not hesitate to contact me at [yann.perdereau@psemail.eu](yann.perdereau@psemail.eu). I am also active on [Twitter](https://twitter.com/YPerdereau) and [Linkedin](https://www.linkedin.com/in/yann-perdereau-5a74b3152/).
 
