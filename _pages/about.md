@@ -21,19 +21,20 @@ Do not hesitate to contact me at [yann.perdereau@psemail.eu](yann.perdereau@psem
 
 [Curriculum vitae](/files/CV Yann Perdereau.pdf)
 
-
-Working papers
+Publications
 ======
-[Luxury for All: A Macroeconomic Theory of Public Provision](/files/Labrousse Perdereau - A Macroeconomic Theory of Public Provision.pdf), with Charles Labrousse, November 2025. <b>Job market paper</b>.
-<button onclick="toggleTexte('abstract1')">Abstract</button>
-<div id="abstract1" style="display:none;">
-  <p style="text-align: justify;">Public in-kind provision of education, healthcare, or cultural amenities accounts for a large share of government spending, even though redistribution can be achieved with cash transfers and externalities addressed with subsidies. We propose a new macroeconomic theory of in-kind provision, grounded in two features: (i) these goods are luxuries, with consumption rising more than proportionally with income; and (ii) they generate externalities that depend not only on the total level of consumption but also on its distribution across households. In a tractable heterogeneous-agent model, we show that these features make direct in-kind provision welfare-improving, even when cash transfers and subsidies are available. Using household- and country-level data, we document that most publicly provided goods exhibit both features. We then apply the framework to the design of fiscal consolidation, showing in a calibrated model that optimal consolidation falls primarily on goods without private substitutes, while preserving in-kind provision of goods with private substitutes. Finally, we develop a welfare-based imputation method for in-kind benefits, to provide a more accurate assessment of the distributional impact of government spending. </p>
-</div>
-
-[Geography versus Income: The Heterogeneous Effects of Carbon Taxation](/files/Geography versus Income, The Heterogeneous Effects of Carbon Taxation.pdf), with Charles Labrousse, March 2026. <b>Accepted subject to minor revision, Journal of Monetary Economics</b>. 2023 [CEPR Philippe Martin Prize](https://cepr.org/about/news/inaugural-philippe-martin-prize-awarded-cepr-paris-symposium) recipient.
+[Geography versus Income: The Heterogeneous Effects of Carbon Taxation](/files/Geography versus Income, The Heterogeneous Effects of Carbon Taxation.pdf), with Charles Labrousse. <i>Journal of Monetary Economics</i>, July 2026 ([link](https://www.sciencedirect.com/science/article/pii/S0304393226000772)). 2023 [CEPR Philippe Martin Prize](https://cepr.org/about/news/inaugural-philippe-martin-prize-awarded-cepr-paris-symposium) recipient.
 <button onclick="toggleTexte('abstract2')">Abstract</button>
 <div id="abstract2" style="display:none;">
   <p style="text-align: justify;">The distributive effects of carbon taxation are critical for its political acceptability and depend on both income and geographic factors. Using French administrative data, household surveys, and matched employer-employee records, we document that rural households spend 2.8 times more on fossil fuels than urban households and work in firms that emit 2.7 times more greenhouse gases. We incorporate these facts into a spatial heterogeneous-agent model with migration, housing and wealth accumulation, bridging spatial and macroeconomic approaches. Carbon taxes generate 56% larger welfare losses for rural households than for urban households. While uniform or income-based rebates reduce inequality along the income dimension, they leave large spatial disparities that must be offset through location-based transfers. These results suggest that carbon policies should account for spatial differences to improve political feasibility.</p>
+</div>
+
+Working papers
+======
+[Luxury for All: A Macroeconomic Theory of Public Provision](/files/Labrousse Perdereau - A Macroeconomic Theory of Public Provision.pdf), with Charles Labrousse, May 2026. <b>Job market paper</b>.
+<button onclick="toggleTexte('abstract1')">Abstract</button>
+<div id="abstract1" style="display:none;">
+  <p style="text-align: justify;">Public in-kind provision of education, healthcare, or cultural amenities accounts for a large share of government spending, even though redistribution can be achieved with cash transfers and externalities addressed with subsidies. We propose a new macroeconomic theory of in-kind provision, grounded in two features: (i) these goods are luxuries, with consumption rising more than proportionally with income; and (ii) they generate externalities that depend not only on the total level of consumption but also on its distribution across households. In a tractable heterogeneous-agent model, we show that these features make direct in-kind provision welfare-improving, even when cash transfers and subsidies are available. Using household- and country-level data, we document that most publicly provided goods exhibit both features. We then apply the framework to the design of fiscal consolidation, showing in a calibrated model that optimal consolidation falls primarily on goods without private substitutes, while preserving in-kind provision of goods with private substitutes. Finally, we develop a welfare-based imputation method for in-kind benefits, to provide a more accurate assessment of the distributional impact of government spending. </p>
 </div>
 
 [Balance sheet policies and Central Bank losses in a HANK model](/files/Balance sheet policies and Central Bank losses in a HANK model.pdf), with Charles Labrousse, August 2025.
@@ -47,6 +48,8 @@ Working papers
 <div id="abstract4" style="display:none;">
   <p style="text-align: justify;">Public servants account for about 20% of total employment. Compared to private-sector workers, they face much lower unemployment risk but also earn lower wages. What does this imply for aggregate stabilization, and what would be the consequences of large-scale public-sector layoffs? Using administrative data, we estimate idiosyncratic productivity risk in both sectors and show that public servants face only half the risk borne by private-sector workers. We then build a quantitative model with both public and private employment and demonstrate that the private-sector wage premium depends crucially on risk aversion. Finally, we examine the distributive and aggregate effects of dismissing 10% of public servants. Our results suggest that welfare improves under plausible calibrations of relative productivity between the two sectors. However, this outcome becomes less likely when heterogeneity in individual risk aversion is taken into account, since more risk-averse workers are forced into the riskier private sector.</p>
 </div>
+
+<u>Housing, Population Aging and Inequality</u>, with Charles Labrousse.
 
 <!-- Comment
 <u>Housing and Inequality</u>, with Charles Labrousse.
